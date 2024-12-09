@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  ApplePie
-//
-//  Created by Batch - 2 on 21/10/24.
-//
-
 import UIKit
 
 @main
